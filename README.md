@@ -26,4 +26,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0022-generate-parentheses) |
+## Array
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
