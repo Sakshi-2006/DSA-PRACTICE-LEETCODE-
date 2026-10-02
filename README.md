@@ -24,6 +24,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0115-distinct-subsequences) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Backtracking
 |  |
 | ------- |
@@ -36,4 +37,16 @@
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Math
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Prefix Sum
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
