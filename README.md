@@ -10,6 +10,7 @@
 | [0115-distinct-subsequences](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Stack
 |  |
@@ -18,6 +19,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
@@ -27,6 +29,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Dynamic Programming
 |  |
@@ -48,6 +51,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Math
 |  |
