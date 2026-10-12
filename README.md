@@ -56,6 +56,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0217-contains-duplicate) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -101,4 +104,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2778-sum-of-squares-of-special-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
