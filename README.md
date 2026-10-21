@@ -14,6 +14,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
