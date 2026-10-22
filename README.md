@@ -64,6 +64,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Greedy
 |  |
 | ------- |
