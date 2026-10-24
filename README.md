@@ -14,6 +14,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [2409-count-days-spent-together](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -81,6 +82,7 @@
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2409-count-days-spent-together](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3886-sum-of-sortable-integers) |
 ## Combinatorics
