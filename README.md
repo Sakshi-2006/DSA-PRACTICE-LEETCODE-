@@ -56,6 +56,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0217-contains-duplicate) |
+| [1254-number-of-closed-islands](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1254-number-of-closed-islands) |
 ## Sorting
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -168,4 +171,12 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
