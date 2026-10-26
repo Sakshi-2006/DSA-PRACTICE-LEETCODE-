@@ -64,6 +64,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3886-sum-of-sortable-integers) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -175,8 +178,10 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
