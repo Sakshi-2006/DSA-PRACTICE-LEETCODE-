@@ -46,6 +46,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Greedy
@@ -136,6 +138,7 @@
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -184,4 +187,5 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
