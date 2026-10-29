@@ -58,6 +58,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0136-single-number) |
+| [0164-maximum-gap](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0217-contains-duplicate) |
 | [1254-number-of-closed-islands](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -117,6 +118,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0217-contains-duplicate) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -198,4 +200,16 @@
 | [1254-number-of-closed-islands](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
