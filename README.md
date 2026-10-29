@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0217-contains-duplicate) |
 | [1254-number-of-closed-islands](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -138,6 +139,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0136-single-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3841-palindromic-path-queries-in-a-tree) |
