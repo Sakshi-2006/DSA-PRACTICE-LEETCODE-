@@ -71,6 +71,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3525-find-x-value-of-array-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3665-twisted-mirror-path-count) |
@@ -96,6 +97,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2409-count-days-spent-together) |
+| [3525-find-x-value-of-array-ii](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3525-find-x-value-of-array-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3886-sum-of-sortable-integers) |
 ## Combinatorics
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
 |  |
