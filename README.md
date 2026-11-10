@@ -53,6 +53,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
@@ -84,6 +85,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3841-palindromic-path-queries-in-a-tree) |
