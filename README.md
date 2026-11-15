@@ -50,6 +50,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -71,6 +72,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2409-count-days-spent-together) |
@@ -129,6 +132,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
