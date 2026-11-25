@@ -109,6 +109,7 @@
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3886-sum-of-sortable-integers) |
+| [3934-smallest-unique-subarray](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Greedy
 |  |
@@ -162,6 +163,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3934-smallest-unique-subarray](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3934-smallest-unique-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3934-smallest-unique-subarray](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3934-smallest-unique-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -335,4 +338,16 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
