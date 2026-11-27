@@ -127,6 +127,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -187,6 +188,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0069-sqrtx) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -352,4 +354,8 @@
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/3934-smallest-unique-subarray) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Sakshi-2006/DSA-PRACTICE-LEETCODE-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
